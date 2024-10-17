@@ -11,6 +11,7 @@ export const ButtonTag = styled.button`
   font-weight: bold;
   margin-right: 10px;
   padding: 10px;
+  margin-bottom:5px;
   border-radius: 8px;
   border-width: 1px;
   border-style: solid;
